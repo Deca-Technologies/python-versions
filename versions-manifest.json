@@ -5283,7 +5283,7 @@
   {
     "version": "2.7.18",
     "stable": true,
-    "release_url": "https://github.com/actions/python-versions/releases/tag/2.7.18-87224",
+    "release_url": "https://github.com/Deca-Technologies/python-versions/releases/tag/2.7.18-87224",
     "files": [
       {
         "filename": "python-2.7.18-darwin-x64.tar.gz",
@@ -5323,7 +5323,7 @@
         "filename": "python-2.7.18-win32-x64.zip",
         "arch": "x64",
         "platform": "win32",
-        "download_url": "https://github.com/actions/python-versions/releases/download/2.7.18-87224/python-2.7.18-win32-x64.zip"
+        "download_url": "https://github.com/Deca-Technologies/python-versions/releases/download/2.7.18-87224/python-2.7.18-win32-x64.zip"
       },
       {
         "filename": "python-2.7.18-win32-x86.zip",
